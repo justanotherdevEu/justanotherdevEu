@@ -1,6 +1,6 @@
-- � Hi, I’m Cyber learner
-- � I’m interested in Python, HTML with CSS and cryptos
-- 🌱 I’m currently learning Python and Cybersecurity,used to try learning C , C# and MatLab but kicked off, really hard languages, still remind little basics
+- 🏴‍☠️ 🎮  Hi, I’m Cybersecurity learner
+- 👀 I’m interested in Python, HTML with CSS and cryptos
+- 👨🏼‍💻 🖥 I’m currently learning Python and Cybersecurity,used to try learning C , C# and MatLab but kicked off, really hard languages, still remind little basics
 - 
 - 📫 How to reach me,                                   // u don't reach me if i don't want, i reach u
 

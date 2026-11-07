@@ -1,6 +1,6 @@
 - 🏴‍☠️ 🎮  Hi, I’m Cybersecurity learner
 - 👀 I’m interested in Python, Linux, Windows, programming languages, hardware, signals, and almost anything related to information and communications security
-- 👨🏼‍💻 🖥 I’m currently learning Python and Cybersecurity,used to try learning C , C# and MatLab but kicked off, really hard languages, still remind little basics
+- 👨🏼‍💻 🖥 I’m currently learning Python, Cybersecurity and AI,used to try learning C , C# and MatLab but kicked off, really hard languages, still remind little basics
 - 
 - 📫 How to reach me,                                   // u don't, i reach u
 
